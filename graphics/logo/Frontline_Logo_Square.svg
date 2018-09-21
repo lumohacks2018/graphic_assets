@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 499.99999"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="Frontline_Logo_Square.svg"
+   inkscape:export-filename="D:\Downloads\Frontline_Logo_Square.png"
+   inkscape:export-xdpi="188.24001"
+   inkscape:export-ydpi="188.24001"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Frontline_Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.2629723"
+     inkscape:cx="206.07148"
+     inkscape:cy="211.87869"
+     inkscape:window-x="1072"
+     inkscape:window-y="255"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Logo"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="81.741771,249.70431"
+       orientation="0,1"
+       id="guide4486"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="249.70432,293.93445"
+       orientation="1,0"
+       id="guide4488"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Frontline_Logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Frontline_Logo"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-26.493861,454.89031)">
+    <g
+       id="Logo">
+      <path
+         d="m 142.58453,-230.35708 h 267.50722 c 8.47335,-14.72818 24.3108,-24.63724 42.44998,-24.63724 27.06538,0 49.00619,22.06092 49.00619,49.27447 0,27.21356 -21.94081,49.2745 -49.00619,49.2745 -18.13918,0 -33.97663,-9.90907 -42.44998,-24.63725 H 142.58453 c -8.47337,14.72818 -24.3108,24.63725 -42.44998,24.63725 -27.065376,0 -49.006184,-22.06094 -49.006184,-49.2745 0,-27.21355 21.940808,-49.27447 49.006184,-49.27447 18.13918,0 33.97661,9.90906 42.44998,24.63724 z"
+         id="Combined-Shape"
+         inkscape:connector-curvature="0"
+         style="fill:#cfc670;stroke-width:6.26069927"
+         sodipodi:nodetypes="ccsssccsssc" />
+    </g>
+  </g>
+</svg>
