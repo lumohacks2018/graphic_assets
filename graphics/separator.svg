@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="396.11166"
+   height="15.740891"
+   viewBox="0 0 396.11166 15.740891"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="link.svg"
+   inkscape:export-filename="D:\Downloads\separator.png"
+   inkscape:export-xdpi="188.24001"
+   inkscape:export-ydpi="188.24001"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="3.572225"
+     inkscape:cx="198.05583"
+     inkscape:cy="18.737734"
+     inkscape:window-x="1072"
+     inkscape:window-y="255"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Logo" />
+  <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Frontline_Logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Frontline_Logo"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-26.493861,-29.368803)">
+    <g
+       id="Logo">
+      <path
+         d="M 41.101841,33.304026 H 407.99756 c 1.35342,-2.352482 3.88308,-3.935223 6.78039,-3.935223 4.32306,0 7.82759,3.523718 7.82759,7.870445 0,4.346727 -3.50453,7.870446 -7.82759,7.870446 -2.89731,0 -5.42697,-1.582741 -6.78039,-3.935223 H 41.101841 c -1.35342,2.352482 -3.88308,3.935223 -6.78039,3.935223 -4.32306,0 -7.82759,-3.523719 -7.82759,-7.870446 0,-4.346727 3.50453,-7.870445 7.82759,-7.870445 2.89731,0 5.42697,1.582741 6.78039,3.935223 z"
+         id="Combined-Shape"
+         inkscape:connector-curvature="0"
+         style="fill:#cfc670"
+         sodipodi:nodetypes="ccsssccsssc" />
+    </g>
+  </g>
+</svg>
